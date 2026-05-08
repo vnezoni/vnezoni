@@ -1,13 +1,13 @@
-<h1 align="center">Hello, my name is <a href="https://t.me/fanat1k_dev" target="_blank">Vnezoni</a> 
+<h1 align="center">Hello, my name is <a href="" target="_blank">Vnezoni</a> 
 <!-- <h4 align="center">And I'm a beginner Front-End developer with great expirience</h4> -->
 
 
 ### 👩‍💻 Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0091ff)](https://t.me/fanskletss)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=0091ff)](https://www.youtube.com/channel/UC8erPQx5RJ8IF2NtPPRzrvQ)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=0091ff)](https://www.instagram.com/its_dellroy?igsh=MW1kMDE5cTRnbTdjOQ==)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0091ff)](https://vk.com/dklinov7)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0091ff)]()
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=0091ff)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=0091ff)]()
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0091ff)]()
 
 
 
