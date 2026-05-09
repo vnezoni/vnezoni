@@ -1,12 +1,12 @@
-# 👋 Привет! Я [Твое Имя]
+# 👋 Hi, my name is <strong>vnezoni</strong>
 
 **Backend Developer** | **Open Source Enthusiast**
 
-Добро пожаловать на мой GitHub! Здесь я пишу код, который делает мир немного лучше (или хотя бы автоматизирует рутину).
+Welcome to my Git Hub!
 
 ---
 
-## 🛠 Инструменты и технологии
+## 🛠 Tools and technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,24 +15,12 @@
 
 **Постоянно изучаю:** Go, Rust, Machine Learning.
 
----
 
-## 🎥 Короткая гифка процесса работы
 
-![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### 👩‍💻 Socials:
 
-> *Процесс написания идеального коммита.*
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0091ff)](https://t.me/vnezzoni)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=0091ff)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=0091ff)]()
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0091ff)](https://vk.ru/tuborosho0)
 
----
-
-## 📫 Как со мной связаться
-
-- **Telegram:** [@tvoj_nick](https://t.me/tvoj_nick)
-- **Email:** tvoi@pochta.com
-- **LinkedIn:** [ссылка](https://linkedin.com/in/...)
-
----
-
-## ⭐️ Статистика
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvoi_username&layout=compact&theme=dark)
