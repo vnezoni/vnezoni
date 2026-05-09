@@ -3,7 +3,7 @@
 **Backend Developer** | **Open Source Enthusiast**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome to my Git Hub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome to my Git Hub!" alt="Typing SVG" />
 </p>
 
 
