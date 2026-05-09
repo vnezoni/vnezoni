@@ -2,9 +2,7 @@
 
 **Backend Developer** | **Open Source Enthusiast**
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=welcome+to+my+Git+Hub" alt="Typing SVG" />
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=welcome+to+my+Git+Hub!" alt="Typing SVG" />
 
 
 ## 🛠 Tools and technologies
