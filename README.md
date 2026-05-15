@@ -15,7 +15,7 @@
 
 ### 👩‍💻 Socials:
 
-<a target="_blank">[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0091ff)](https://t.me/vnezzoni)</a>
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0091ff)](https://t.me/vnezzoni)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0091ff)](https://vk.ru/tuborosho0)
 
 
