@@ -1,6 +1,6 @@
 # 👋 Hi, my name is <strong>vnezoni</strong>
 
-**Backend Developer** | **Open Source Enthusiast**
+**Fullstack Developer** | **Open Source Enthusiast**
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=welcome+to+my+Git+Hub!" alt="Typing SVG" />
 
